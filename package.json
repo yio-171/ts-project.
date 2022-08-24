@@ -1,0 +1,21 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "description": "first project using ts",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "typescript"
+  ],
+  "author": "giovanni arevalo",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.1"
+  }
+}
